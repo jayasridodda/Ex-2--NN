@@ -1,7 +1,7 @@
 
 <H3>Name: DODDA JAYASRI</H3>
 <H3>Register no: 212222240028</H3>
-<H3>Date: 19-09-24</H3>
+<H3>Date:      </H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
